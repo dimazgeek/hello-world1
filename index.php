@@ -24,8 +24,8 @@
 
 <div class="transbox1">
 <h1>project 2</h1>
-<p>link:<a href="">project2<a></p>
-<p>git:<a href="">project2<a></p>
+<p>link:<a href="password.php">project2<a></p>
+<p>git:<a href="https://github.com/dimazgeek/hello-world1">project2<a></p>
 
 </div>
 
